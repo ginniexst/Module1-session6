@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI",Arial,sans-serif;
+    width: 800px;
+    margin-left: 5px;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+#explanation {
+    margin-bottom: 15px;
+    margin-left: 15px;
+
+}
+
+.code {
+    color: crimson;
+    background-color: #f4f4f4;
+}
+
+.centered-text {
+    border: 4px solid green;
+    text-align: center;
+    padding: 15px;
+    width: 750px;
+    margin-left: 15px;
+}
+
+.example {
+    background-color: #e5e9ed;
+    padding-left: 15px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
+
+.example .ex-title {
+    padding-top: 10px;
+    padding-left: 0px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.code-example {
+    background-color: white;
+    padding: 10px;
+    border-left: 4px solid #02ab6e;
+    max-width: 750px;
+}
+
+.button {
+    background-color: #02ab6e;
+    border: none;
+    color: white;
+    width: 120px;
+    height: 35px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.selector {
+    color: brown;
+}
+
+.property {
+    color: red;
+    padding-left: 20px;
+}
+
+.value {
+    color: blue;
+}
